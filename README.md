@@ -26,14 +26,6 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 
 - Tener instalada una versión reciente de **MATLAB** (2022b o posterior recomendable)
 - También puedes usar [MATLAB Online](https://matlab.mathworks.com/) sin instalación
-- 
----
-
-## 📷 Ejemplos Visuales
-
-### Visualización de Datos
-![Gráfico de ejemplo](https://raw.githubusercontent.com/AHumanez/intro2MATLAB/main/images/grafico_ejemplo.png)
-
 ---
 
 ## 🔗 Enlaces de Interés
