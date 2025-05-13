@@ -12,6 +12,11 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 
 ## 📁 Contenido del Repositorio
 
+Click here to open the code and repository in MATLAB Online&trade;:
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AHumanez/intro2MATLAB25&file=/Data2insightsDemo.mlx)
+
+
 | Carpeta / Archivo | Descripción |
 |-------------------|-------------|
 | `Data2InsightsDemo.mlx`      | Scripts y ejemplos básicos de introducción a MATLAB, análisis exploratorio de datos, gráficos y limpieza |
