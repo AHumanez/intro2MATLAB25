@@ -60,7 +60,6 @@ Este material fue desarrollado por **Andrea Humanez**, en el marco de las inicia
 ---
 
 ## ⭐ ¡Dale una estrella al repositorio si te fue útil!
-👉 [¡Haz clic aquí para darle estrella al repositorio!](https://github.com/AHumanez/intro2MATLAB/stargazers)
 
 ---
 
