@@ -26,7 +26,7 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 
 - Tener instalada una versión reciente de **MATLAB** (2022b o posterior recomendable)
 - También puedes usar [MATLAB Online](https://matlab.mathworks.com/) sin instalación
-- Accede a los archivos de datos desde [MATLAB Drive] (https://drive.mathworks.com/sharing/7696f7ac-c807-4055-a213-15fb37235296)
+- Accede a los archivos de datos desde [MATLAB Drive](https://drive.mathworks.com/sharing/7696f7ac-c807-4055-a213-15fb37235296)   
 
 ---
 
