@@ -18,7 +18,7 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 | `Data2InsightsDemo.mlx`      | Scripts y ejemplos básicos de introducción a MATLAB, análisis exploratorio de datos, gráficos y limpieza |
 | `data2021 and data 2024`     | Archivos con datos para modelo ML |
 | `importfile and importxlsx`  | Ejercicios prácticos para afianzar el aprendizaje |
-| `datasets/`                  | Encuentra los datos en requisitos |
+| `datasets/`                  | Accede a los archivos de datos desde [MATLAB Drive](https://drive.mathworks.com/sharing/7696f7ac-c807-4055-a213-15fb37235296)    |
 
 ---
 
@@ -26,8 +26,7 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 
 - Tener instalada una versión reciente de **MATLAB** (2022b o posterior recomendable)
 - También puedes usar [MATLAB Online](https://matlab.mathworks.com/) sin instalación
-- Accede a los archivos de datos desde [MATLAB Drive](https://drive.mathworks.com/sharing/7696f7ac-c807-4055-a213-15fb37235296)   
-
+- 
 ---
 
 ## 📷 Ejemplos Visuales
