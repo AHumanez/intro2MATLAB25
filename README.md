@@ -1,4 +1,3 @@
-# intro2MATLAB25
 # 📊 Seminario de Introducción a MATLAB y Análisis de Datos
 
 ¡Bienvenido/a al repositorio oficial del seminario! Aquí encontrarás todo lo necesario para comenzar tu camino en el uso de **MATLAB** para análisis de datos: desde los conceptos básicos hasta ejemplos prácticos con visualizaciones interactivas.
