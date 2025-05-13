@@ -16,7 +16,7 @@ Brindar a los participantes una introducción práctica a MATLAB con un enfoque 
 | Carpeta / Archivo | Descripción |
 |-------------------|-------------|
 | `Data2InsightsDemo.mlx`      | Scripts y ejemplos básicos de introducción a MATLAB, análisis exploratorio de datos, gráficos y limpieza |
-| `data2021 and data 2024`     | Archivos con datos para modelo ML |
+| `data2021 and data 2024`     | Archivos con datos para modelo machine learning |
 | `importfile and importxlsx`  | Ejercicios prácticos para afianzar el aprendizaje |
 | `datasets/`                  | Accede a los archivos de datos desde [MATLAB Drive](https://drive.mathworks.com/sharing/7696f7ac-c807-4055-a213-15fb37235296)    |
 
